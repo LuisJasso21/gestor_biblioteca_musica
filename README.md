@@ -28,6 +28,7 @@ Sistema de línea de comandos desarrollado en **Python** y **SQLite** para admin
 
 ```bash
 python menu_principal.py
+```
 
 ## Evolución y próximos pasos
 
